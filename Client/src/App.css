@@ -1,0 +1,40 @@
+section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 200px;
+}
+
+.group {
+    flex-direction: row;
+    border: none;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 1.3em;
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+input[type="checkbox"] {
+    font-size: .8em;
+}
+
+button {
+    border-radius: 4px;
+    margin-right: 20px;
+    padding: 10px;
+    font-size: .8em;
+}
+
+pre {
+    font-size: 1.3em;
+    padding: 30px;
+    background-color: #333;
+    color: #fff;
+}
