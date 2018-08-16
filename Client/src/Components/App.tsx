@@ -66,7 +66,7 @@ class App extends React.Component<React.SFC<{}>> {
     return (
       <section className={'app'}>
         <div className="header">
-          <a href="#default" className="logo">Dustin Watkins</a>
+          <a href="#default" className="logo">Dustin Watkins Portfolio</a>
           <div className="header-right">
             <a className="active" href="#home">Home</a>
             <a href="#experience">Experience</a>
