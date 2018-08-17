@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+}
+
+#project {
+    height: 175px;
+    width: 325px;
+    margin-left: 50px;
+    background-color: ghostwhite;
+    margin-top: 25px;
+    position: relative;
+    -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
+    -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    padding: 10px;
+    background: white;
+    margin-bottom: 25px;
+}
+
+#project:hover {
+    background-color: #ddd;
+}
+
+.projects-container {
+    margin-top: 50px;
+    background-color: bisque;
+    -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
+    -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+
