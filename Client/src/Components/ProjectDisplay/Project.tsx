@@ -13,11 +13,11 @@ class Project extends React.Component<React.SFC<{}>> {
               <div className="col-sm-4" id={'project'}>
                 <h4>Ticket To Ride</h4>
                 <p>Multi player network game implementation of the board game Ticket to Ride</p>
+                <h6>View Project</h6>
               </div>
             </a>
             <div className="col-sm-4" id={'project'}>
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem
-              aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.
+             <h4></h4>
             </div>
             <div className="col-sm-4" id={'project'}>
               Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem
